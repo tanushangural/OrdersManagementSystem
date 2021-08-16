@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "OrdersManagementSystemDb": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "url": "",
+    "database": "OrdersManagementSystem",
+    "password": "Password@123",
+    "name": "OrdersManagementSystemDb",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
